@@ -55,3 +55,17 @@ li:hover {
 .credits {
     font-size: 0.8rem;
 }
+
+h1,h3,
+p {
+  line-height: 2rem;
+  flex-basis: 0;
+  flex-grow: 1;
+  clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+}
+/* 
+.content {
+    flex-basis: 0;
+  flex-grow: 1;
+  clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+} */
