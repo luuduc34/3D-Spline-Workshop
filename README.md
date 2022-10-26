@@ -6,7 +6,9 @@ Spline, Html, Css, JS, Gsap
 
 ### Used links:
 Spline : https://spline.design/
+
 Gsap CDN : https://cdnjs.com/libraries/gsap
+
 Clip path : https://bennettfeely.com/clippy/
 
 ### Preview link:
